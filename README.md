@@ -19,6 +19,12 @@ The following is a Python example of the [Google Earth Engine plugin for QGIS](h
 * **Step 6:** Click the *Run script* button on the Python Editor to execute the script.
 * **Step 7:** Zoom in/out the QGIS Canvas to inspect the results.
 
+## 2. Install
+
+We install the Google Earth Engine plugin for QGIS. To do this we must go to the top menu of QGIS and click on **Add-ons> Manage and install add-ons ...** In the search box we type "Google Earth", select the plugin and install it.
+<figure><img src='img\gee_QGIS.png' alt='GEE plugin' style="align:center; width:100%;"></img><figcaption> GEE Plugin</figcaption><figure>
+<hr>
+
 ## 3. Add QGIS Basemaps
 
 * Open the Python console in QGIS and load the Python script ([Basemaps/qgis_basemaps.py](https://github.com/Alexanderariza/qgis-earthengine-Fires-Monitoring/blob/master/Python/Base_maps.py)) into the QGIS Python Editor.
@@ -31,5 +37,4 @@ The following is a Python example of the [Google Earth Engine plugin for QGIS](h
 
 ![qgis-gee-demo](https://github.com/Alexanderariza/qgis-earthengine-Fires-Monitoring/blob/master/img/strm_basem.gif)
 
-<figure><img src='img\strm_basem.gif' alt='STRM. Image: Copernicus.' style="align:center; width:200%;"></img><figcaption>STRM Elevation Model.</figcaption><figure>
-<hr>
+
