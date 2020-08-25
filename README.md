@@ -36,11 +36,20 @@ We install the Google Earth Engine plugin for QGIS. To do this we must go to the
 ## 4. Run Earth Engine on QGIS (Plugin) 
 
 Once installed and authenticated, we can access the plugin from the python console to write and run the scripts. 
-A way to check if the plugin is installed and that we have authenticated correctly, we write the following in the QGIS Python console:
+To test if the plugin is installed and authenticated properly - type the following in the QGIS Python Console:
 
 ![Check Install](https://github.com/Alexanderariza/qgis-earthengine-Fires-Monitoring/blob/master/img/hello_w.PNG)
 
+We should note that QGIS projects that contain Earth Engine layers can be saved, in this case the code required to connect to Earth Engine is stored in a QGIS project and used to reinitialize these layers when loaded again the project. Currently, this only works we have the plugin installed in the QGIS in which these layers are loaded.
+
+Demo:
 
 ![qgis-gee-demo](https://github.com/Alexanderariza/qgis-earthengine-Fires-Monitoring/blob/master/img/strm_basem.gif)
 
+The above code will ask Earth Engine for an image and add it as an XYZ tile layer to the QGIS canvas.
 
+## 5. Evaluation and visualization
+* [Jupyter Notebook](https://github.com/Alexanderariza/qgis-earthengine-Fires-Monitoring/blob/master/qgis-earthengine-Fires-Monitoring.ipynb)
+* [Pytho code](https://github.com/Alexanderariza/qgis-earthengine-Fires-Monitoring/blob/master/Python/GEE_QGIS_TUNISIA.py)
+
+<i><p style="text-align:right;">The compilation has been created to support the [UN-SPIDER Knowledge Portal](http://www.un-spider.org/).
