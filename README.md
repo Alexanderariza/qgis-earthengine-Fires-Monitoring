@@ -21,7 +21,7 @@ The following is a Python example of the [Google Earth Engine plugin for QGIS](h
 
 ## 3. Add QGIS Basemaps
 
-* Open the Python console in QGIS and load the Python script ([Basemaps/qgis_basemaps.py](https://github.com/giswqs/qgis-earthengine-examples/tree/master/Basemaps/qgis_basemaps.py)) into the QGIS Python Editor.
+* Open the Python console in QGIS and load the Python script ([Basemaps/qgis_basemaps.py](https://github.com/Alexanderariza/qgis-earthengine-Fires-Monitoring/blob/master/Python/Base_maps.py)) into the QGIS Python Editor.
 * Click the *Run script* button on the Python Editor to execute the script. This will add many basesmaps as XYZ tiles to QGIS. Select and double click any basemap under XYZ Ttiles to be added to QGIS Canvas. See the screenshot below.
 * Alternatively, you can install the QGIS [QuickMapServices](https://plugins.qgis.org/plugins/quick_map_services/) plugin. After installing the plugin, go to _QGIS_ -- _Web_ --_QuickMapServices_ -- _Settings_ -- _More services_ -- _Get contributed pack_ -- _Save_. 
 
