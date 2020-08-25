@@ -27,3 +27,8 @@ The following is a Python example of the [Google Earth Engine plugin for QGIS](h
 
 ![QGIS Basemaps](https://github.com/Alexanderariza/qgis-earthengine-Fires-Monitoring/blob/master/img/qgis_gee_3.png)
 
+## 4. Run Earth Engine on QGIS (Plugin) 
+
+![qgis-gee-demo](https://github.com/Alexanderariza/qgis-earthengine-Fires-Monitoring/blob/master/img/strm_basem.gif)
+
+
