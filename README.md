@@ -38,9 +38,8 @@ We install the Google Earth Engine plugin for QGIS. To do this we must go to the
 Once installed and authenticated, we can access the plugin from the python console to write and run the scripts. 
 A way to check if the plugin is installed and that we have authenticated correctly, we write the following in the QGIS Python console:
 
+![QGIS Basemaps](https://github.com/Alexanderariza/qgis-earthengine-Fires-Monitoring/blob/master/img/hello_w.png)
 
-
-Hola mundo desde EE!
 
 ![qgis-gee-demo](https://github.com/Alexanderariza/qgis-earthengine-Fires-Monitoring/blob/master/img/strm_basem.gif)
 
