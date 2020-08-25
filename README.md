@@ -31,4 +31,5 @@ The following is a Python example of the [Google Earth Engine plugin for QGIS](h
 
 ![qgis-gee-demo](https://github.com/Alexanderariza/qgis-earthengine-Fires-Monitoring/blob/master/img/strm_basem.gif)
 
-
+<figure><img src='img\img/strm_basem.gif' alt='STRM. Image: Copernicus.' style="align:center; width:100%;"></img><figcaption>STRM Elevation Model.</figcaption><figure>
+<hr>
