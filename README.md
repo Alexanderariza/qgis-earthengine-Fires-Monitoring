@@ -38,8 +38,7 @@ We install the Google Earth Engine plugin for QGIS. To do this we must go to the
 Once installed and authenticated, we can access the plugin from the python console to write and run the scripts. 
 A way to check if the plugin is installed and that we have authenticated correctly, we write the following in the QGIS Python console:
 
->>> import ee
->>> print (ee.String ('¡Hola Mundo desde EE!'). getInfo ())
+
 
 Hola mundo desde EE!
 
